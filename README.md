@@ -1,2 +1,12 @@
-# BlogStudio
-Proyecto dedicado al estudio de Git y GitHub a través de un blog.
+#Blog Empresa
+
+[Descripción del proyecto]
+
+[Instalación]
+- Requisitos
+- Versión
+- Encargados del proyecto
+
+[Uso]
+
+[Documentación]
